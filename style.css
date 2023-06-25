@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(243, 248, 247);
+}
+#me{
+    color: blue;
+    font-size: 50px;
+}
+nav li {
+    display: inline;
+    font-family: 'Roboto', sans-serif;
+    float: right;
+    padding: 20px;
+}
+.know-me h2, .reach-me h2{
+    color: brown;
+}
+.know-me p, .reach-me p{
+    color: green;
+}
+#collect-info label{
+    font-size: 20px;
+    margin-right: 20px;
+    font-weight: bold;
+    color: rgb(161, 96, 17);
+}
+#collect-info input{
+    height: 30px;
+    border-radius: 5px;
+    width: 250px;
+}
+#email {
+    padding-right: 40px;
+}
+#page-contents{
+    font-size:20px;
+}
+address{
+    font-size:20px;
+}
